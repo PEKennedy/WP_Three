@@ -21,7 +21,7 @@ if ( is_single() ) {
 // Message you want to display after the post
 // Add URLs to your own Twitter and Facebook profiles
  
-$content .= '<p class="follow-us">If you liked this article, then please follow us on blabla</p>';
+$content .= '<p class="follow-us">If you liked this article(s), then please follow us on blabla</p>';
  
 }
 // Return the content
