@@ -22,7 +22,7 @@ jobs:
         with:
           server: ${{ secrets.SFTP_HOST }}
           username: ${{ secrets.SFTP_USER }}
-          ssh_private_key: ${{ SFTP_PKEY }}
+          ssh_private_key: ${{ secrets.SFTP_PKEY }}
           remote_path: './stack/wordpress/'
             
             
