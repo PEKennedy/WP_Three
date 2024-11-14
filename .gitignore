@@ -9,6 +9,14 @@
 /wp-content/index.php
 /wp-content/languages
 /wp-content/plugins/index.php
+
+/wp-content/plugins/error-log-monitor/*
+/wp-content/plugins/query-monitor/*
+/wp-content/plugins/wp-debugging/*
+/wp-content/plugins/elm-error-logs/*
+/wp-content/elm-error-logs/*
+/vendor
+
 /wp-content/themes/index.php
 /wp-includes/
 /index.php
